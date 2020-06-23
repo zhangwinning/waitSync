@@ -1,0 +1,27 @@
+{
+  "name": "waitsync",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sleep.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangwinning/waitSync.git"
+  },
+  "dependencies": {
+    "bindings": "~1.2.1",
+    "node-addon-api": "^1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhangwinning/waitSync/issues"
+  },
+  "homepage": "https://github.com/zhangwinning/waitSync#readme",
+  "engines": {
+    "node": ">=14.3.0"
+  },
+  "gypfile": true
+}
